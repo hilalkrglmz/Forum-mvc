@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Mehmet",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yöntirim??",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": 2,
+      "user": "Ali",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": 3,
+      "user": "Ahmet",
+      "title": "MVC Mantığı",
+      "text": "Nasıl Olucak?__",
+      "date": "2023-10-11T19:13:21.364Z"
+    },
+    {
+      "user": "Hilal",
+      "title": "mvc nedir?",
+      "text": "fkshdlahs",
+      "id": "d8cab0d8-1e9e-4e2a-96d2-a9ffa875059e"
+    },
+    {
+      "user": "Fatih",
+      "title": "formik nedir?",
+      "text": "Nasıl çalışır?",
+      "id": "09e40c10-2d5d-4880-9e56-a413f80b72ab"
+    },
+    {
+      "user": "Hilal",
+      "title": "JavaScript",
+      "text": "JavaScript çalışma yapısı",
+      "id": "5aa534bc-4d5d-485f-8e8c-f85ecaaf7ef0"
+    },
+    {
+      "user": "Ahmet",
+      "title": "Formik",
+      "text": "Sıradaki konu formik\n",
+      "id": "9236b595-47e1-400a-8d26-b3a62fa4fec4"
+    },
+    {
+      "user": "Ahmet",
+      "title": "Tailwind",
+      "text": "Tailwind yapısı",
+      "id": "51c6d283-3773-47a7-a998-6723dc92e5e7"
+    },
+    {
+      "user": "Mehmet",
+      "title": "Firebase ",
+      "text": "Firebase storage kullanımı",
+      "id": "97cfd072-0d98-4e0d-b353-07f0519ae1f6"
+    }
+  ]
+}

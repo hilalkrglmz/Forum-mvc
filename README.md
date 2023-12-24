@@ -19,7 +19,7 @@ https://github.com/hilalkrglmz/Forum-mvc/assets/140657703/dee179cc-3301-4aa8-acc
         <h2>About Project</h2>
             <ul>
                 <li>REACT</li>
-                <li>MVC YAPISI</li>
+                <li>MVC</li>
                 <li>Axios</li>
                 <li>Tailwind</li>
                 <li>Json-server</li>
